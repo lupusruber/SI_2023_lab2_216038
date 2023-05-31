@@ -1,7 +1,8 @@
 ## Петар Малиновски 216038
 
+
 # 2. Control Flow Graph
-![Control Flow Graph (1)](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/d4c66019-eab9-4360-881b-47010153f08e)
+![Control Flow Graph (1)](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/509d2950-b120-4d1a-bd67-f35f02f1640a)
 
 # 3. Цикломатска комплексност
 V = 22 (број на јазли) <br /> 
@@ -10,7 +11,7 @@ C = E - V + 2 <br />
 C = 31 - 22 + 2 = 11 (цикломатска комплексност) <br /> 
 
 # 4. Every Branch критериум
-![image](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/f379b38f-94de-4bc4-aead-bd25b4cdec83)
+![image](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/ffeb34fb-3f19-4bfa-a003-47d43cf13c7a)
 
 ### Тест 1
 Проверува дали исправно работи валидацијата за правилен email, бидејќи е внесен email без @ и дали доколку вредноста на полето username e null, дали се зема точно email-от како username, како и дали е валидна големионата на дадениот password.
@@ -28,7 +29,7 @@ C = 31 - 22 + 2 = 11 (цикломатска комплексност) <br />
 Проверува дали доколку се испрати аргумент null на местото на user, функцијата ќе фрли соодветен exception.
 
 # 5. Multiple condition критериум
-![image](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/b731be8b-fbed-4d8b-bdcf-23d23eb4d723)
+![image](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/a20f0f4d-746f-42d6-b9f4-fca1852a45c2)
 
 Првиот случај е кога внесениот аргумент за user e null, бидејќи доколку во if условот имаме or и во тој or само првиот аргумент е True, не се проверува понатаму, односно условот е усполет.
 
