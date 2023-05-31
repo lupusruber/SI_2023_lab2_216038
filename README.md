@@ -1,5 +1,8 @@
 ## Петар Малиновски 216038
 
+# 2. Control Flow Graph
+![Control Flow Graph (1)](https://github.com/lupusruber/SI_2023_lab2_216038/assets/75671111/d4c66019-eab9-4360-881b-47010153f08e)
+
 # 3. Цикломатска комплексност
 V = 22 (број на јазли) <br /> 
 E = 31 (број на ребра) <br /> 
